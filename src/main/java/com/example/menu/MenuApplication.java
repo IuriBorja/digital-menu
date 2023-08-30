@@ -10,4 +10,5 @@ public class MenuApplication {
 		SpringApplication.run(MenuApplication.class, args);
 	}
 
+
 }
